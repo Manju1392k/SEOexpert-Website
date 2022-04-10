@@ -33,5 +33,3 @@ https://user-images.githubusercontent.com/66934377/162627270-6bc3ca08-d4da-4e81-
 ```bash
 npm run runserver
 ```
-
-
